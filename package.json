@@ -1,0 +1,25 @@
+{
+  "name": "simple-agent",
+  "version": "0.0.0",
+  "description": "A simple agent that will explore a game world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ceres-pallas/simple-agent.git"
+  },
+  "keywords": [
+    "AI",
+    "reinforcement",
+    "learning",
+    "agent"
+  ],
+  "author": "Robin van Kaathoven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ceres-pallas/simple-agent/issues"
+  },
+  "homepage": "https://github.com/ceres-pallas/simple-agent"
+}
