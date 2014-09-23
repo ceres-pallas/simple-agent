@@ -24,6 +24,7 @@
   "homepage": "https://github.com/ceres-pallas/simple-agent",
   "devDependencies": {
     "chai": "~1.9.1",
-    "mocha": "~1.21.4"
+    "mocha": "~1.21.4",
+    "function-approximator": "0.0.0"
   }
 }
