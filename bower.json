@@ -1,0 +1,25 @@
+{
+  "name": "simple-agent",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ceres-pallas/simple-agent",
+  "authors": [
+    "Robin van Kaathoven"
+  ],
+  "description": "A simple agent that will explore a game world.",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "AI",
+    "agent"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
