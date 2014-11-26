@@ -19,9 +19,8 @@
     }
 
     SimpleAgent.prototype.performAction = function(action) {
-	this.history.push({state: this.problem.currentState(), action: action});
-
 	this.problem.tick(action);
+	this.history.push({state: this.problem.currentState(), action: action});
 	this.ticked++;
     }
 
